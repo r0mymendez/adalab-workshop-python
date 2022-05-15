@@ -15,3 +15,6 @@ Con este taller online de 2 h  te iniciarás en los misterios del análisis de d
 * La duración será de aproximadamente 2 h.
 * No necesitas ningún programa específico en tu ordenador ni configuración previa. ¡Así de fácil!
 * Regístrate y te enviaremos los datos de acceso por email.
+
+
+![](https://github.com/r0mymendez/adalab-workshop-python/blob/main/Taller%20Data%20Analytics%20Netflix%20banner.png)
