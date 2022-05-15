@@ -1,4 +1,4 @@
-type,rating,release_year,show_id
+type,rating,release_year,num
 Movie,66 min,2000,0
 TV Show,66 min,2000,0
 Movie,66 min,2001,0
