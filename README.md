@@ -11,6 +11,7 @@
 ---
  
  <br>
+ 
 # Conviértete en una data analyst de película
 
 Alguna vez te has preguntado en qué consiste ser data analyst? ¿Te gustaría probarlo pero no te atreves o no lo tienes claro? ¡No te montes películas y aprende análisis de datos!
